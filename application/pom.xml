@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.informatica-feminale</groupId>
 	<artifactId>if-demo</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.0</version>
 	<name>if-demo</name>
 	<description>Demo project for DevOps Workshop at Informatica Feminale</description>
 	<url/>
